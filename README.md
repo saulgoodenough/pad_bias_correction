@@ -16,7 +16,8 @@ The detail bias methods can be found in
 ```
 
 
-Paper Link: https://doi.org/10.1016/j.nicl.2023.103319
+Paper Link: https://doi.org/10.1016/j.nicl.2023.103319. 
+
 Please cite the paper as 
 ```text
 @article{zhang2023age,
