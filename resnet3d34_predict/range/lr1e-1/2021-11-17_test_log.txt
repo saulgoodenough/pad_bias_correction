@@ -1,0 +1,84 @@
+2021-11-17 19:40:27,645 3d net model INFO: Saving model in the path :../../resnet3d34_model/range/lr1e-1/
+2021-11-17 19:40:27,645 3d net model INFO: Running with config:
+NET_DATALOADER:
+  BATCH_SIZE: 4
+  BIN_RANGE: [38, 86]
+  BIN_STEP: 1
+  DATA_AUG: True
+  DIRECTION: left_right
+  DROP_LAST: True
+  ENDLIST: ['T1.nii.gz']
+  IMAGE_DIR: /home2/migrate_handan/Biobank_images/
+  NUM_WORKERS: 32
+  PIN_MEMORY: False
+  SIGMA: 1
+  TARGET_DICT: ../../data/age_dict.npy
+  TEST_BATCH_SIZE: 1
+  TEST_IMAGELIST_PATH: ../../data/image_list_test.npy
+  TEST_IMAGE_DIR: ../../data/TEST/
+  TEST_PERCENT: 0.15
+  TRAIN_IMAGELIST_PATH: ../../data/image_list_train.npy
+NET_DATASETS:
+  
+NET_INPUT:
+  CROP_SIZE: (160, 192, 160)
+  IMAGE_SIZE: (162, 226, 209)
+  IN_CHANNELS: 1
+NET_MODEL:
+  CLASS_NUM: 48
+  OUT_CHANNELS: 1
+  TYPE: RESNET3D34
+NET_PREDICT:
+  LEFT_DIR: ../../resnet3d34_predict/range/left/
+  LEFT_MODEL: ../../resnet3d34_model/range/left/pytorch_model_99_2021-06-23
+  RIGHT_DIR: ../../resnet3d34_predict/range/right/
+  RIGHT_MODEL: ../../resnet3d34_model/range/right/pytorch_model_99_2021-06-24
+  WHOLE_DIR: ../../resnet3d34_predict/range/lr1e-1/
+  WHOLE_MODEL: ../../resnet3d34_model/range/sgd/pytorch_model_100_2021-06-23
+NET_TRAIN:
+  BALANCE: False
+  DATA_DEVICE_ID: [0, 1]
+  DESCRIPTION: Resnet-3d training
+  DEVICE_ID: 1,2
+  EARLY_STOPPING: False
+  EPOCHS: 100
+  FINE_TUNE: False
+  LEFT_NET_OUTPUT_DIR: ../../resnet3d34_model/range/left/
+  LEFT_PRETRAIN_MODEL_PATH: ../../resnet3d34_model/range/left/pytorch_model_22_2021-04-19
+  NET_OUTPUT_DIR: ../../resnet3d34_model/range/lr1e-1/
+  PATIENCE: 10
+  RIGHT_NET_OUTPUT_DIR: ../../resnet3d34_model/range/right/
+  RIGHT_PRETRAIN_MODEL_PATH: ../../resnet3d34_model/range/right/pytorch_model_22_2021-04-19
+  TEST_RATIO: 0.05
+  TRAIN_TYPE: whole
+  USE_GPU: True
+  VISDOM: False
+  WHOLE_NET_OUTPUT_DIR: ../../resnet3d34_model/range/lr1e-1/
+  WHOLE_PRETRAIN_MODEL_PATH: ../../resnet3d34_model/sgd/whole/pytorch_model_22_2021-04-19
+SOLVER:
+  ADAM_BETAS: (0.9, 0.999)
+  ADAM_EPS: 1e-08
+  ADAM_LR: 0.001
+  ADAM_WEIGHT_DECAY: 0.0005
+  INIT_LR: 0.1
+  LOSS: KL
+  LR_DECAY: 0.1
+  LR_PERIOD: 25
+  NAME: SGD
+  SEED: 1921
+  SGD_LR: 0.1
+  SGD_MOMENTUM: 0.9
+  SGD_WEIGHT_DECAY: 0.0001
+VISUALIZER:
+  LEFT_ENV: RESNET_LEFT
+  RIGHT_ENV: RESNET_RIGHT
+  WHOLE_ENV: RESNET_WHOLE
+2021-11-17 19:40:27,646 3d net model INFO: ===> Loading training datasets
+2021-11-17 19:40:31,072 3d net model INFO: ===> Loading testing datasets
+2021-11-17 19:40:31,072 3d net model INFO: ===> Building whole model
+2021-11-17 19:40:39,488 3d net model INFO: Amount of parameters:  63494256
+2021-11-17 19:40:39,861 3d net model INFO: ===> start training
+2021-11-17 19:40:43,637 3d net model INFO: ===> start test predition
+2021-11-17 19:44:44,111 3d net model INFO: WHOLE ===>  Avg. Validation Loss: 2.76959513
+2021-11-17 19:44:44,111 3d net model INFO: WHOLE ===> Avg. Validation age difference: 2.55435880
+2021-11-17 19:44:44,113 3d net model INFO: WHOLE test elapse  4m 4s

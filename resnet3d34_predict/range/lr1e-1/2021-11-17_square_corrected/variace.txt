@@ -1,0 +1,988 @@
+resnet3d34 range 38-86
+[-0.45738406  0.1247615  -0.18665705  0.20543338  1.30087731]
+variance of predicted mean age difference: 0.35984900760496447
+variance of predicted age difference: 12.793630648882925
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638628173
+variance of predicted age difference: 12.756640509562523
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.34571688638622033
+variance of predicted age difference: 12.756640509562677
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.37420689  0.1167972  -0.19534922  0.2249158   1.31195382]
+variance of predicted mean age difference: 0.3457168863862147
+variance of predicted age difference: 12.756640509562693
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.365386818596019
+variance of predicted age difference: 12.723680678563262
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869382
+variance of predicted age difference: 12.722423703493961
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869382
+variance of predicted age difference: 12.722423703493961
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-275.65866538 -255.04053664 -237.70647957 -228.25930505 -221.84982165]
+variance of predicted mean age difference: 380.34633238436254
+variance of predicted age difference: 232.7497954161804
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.37203196728696086
+variance of predicted age difference: 12.722423703493913
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.3653868185960084
+variance of predicted age difference: 12.723680678563303
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608124
+variance of predicted age difference: 12.7236806785631
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608124
+variance of predicted age difference: 12.7236806785631
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869544
+variance of predicted age difference: 12.722423703493929
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869544
+variance of predicted age difference: 12.722423703493929
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608124
+variance of predicted age difference: 12.7236806785631
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608124
+variance of predicted age difference: 12.7236806785631
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869544
+variance of predicted age difference: 12.722423703493929
+resnet3d34 range 38-86
+[-0.39888119  0.03186367 -0.27148551  0.19238587  1.31984975]
+variance of predicted mean age difference: 0.3720319672869544
+variance of predicted age difference: 12.722423703493929
+resnet3d34 range 38-86
+[-0.34524318  0.04797858 -0.38796551  0.211729    1.38553403]
+variance of predicted mean age difference: 0.4140369900926345
+variance of predicted age difference: 12.935238058701026
+resnet3d34 range 38-86
+[-0.74137522  0.00198481  0.01511052  0.00672222  1.05377362]
+variance of predicted mean age difference: 0.32754905481216595
+variance of predicted age difference: 13.405833714050035
+resnet3d34 range 38-86
+[-0.44792747  0.02763754 -0.21556361  0.14043111  1.1848162 ]
+variance of predicted mean age difference: 0.315265618993627
+variance of predicted age difference: 12.502578665701357
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608124
+variance of predicted age difference: 12.7236806785631
+resnet3d34 range 38-86
+[-0.40873568 -0.02348813 -0.06980181  0.02554726  1.34313488]
+variance of predicted mean age difference: 0.36538681859608063
+variance of predicted age difference: 12.723680678563108
