@@ -6,6 +6,8 @@
 ./resnet3d_model/
 ./msd3d_model/
 
+.idea
+
 # Compiled source #
 ###################
 *.com
